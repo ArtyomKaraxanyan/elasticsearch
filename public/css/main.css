@@ -1,0 +1,24 @@
+.search-form{
+    padding: 20px
+}
+.btn-div{
+    margin: auto;
+}
+.container-search{
+    padding: 15px;
+}
+article{
+    border: solid 1px silver;
+    text-align: center;
+    padding: 20px;
+}
+.tags span{
+    color: #0d1116;
+    font-size: 15px;
+    border: solid;
+    padding: 5px;
+    margin: 5px;
+}
+.paginate{
+    margin: auto;
+}
